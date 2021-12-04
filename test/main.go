@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/RestartFU/party"
 	"github.com/df-mc/dragonfly/server"
+	"github.com/dragonfly-on-steroids/party"
 )
 
 func main() {

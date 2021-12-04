@@ -1,11 +1,12 @@
-module github.com/RestartFU/party
+module github.com/dragonfly-on-steroids/party
 
 go 1.17
+
+require github.com/df-mc/dragonfly v0.4.3-0.20211204162740-34cab5eabfb0
 
 require (
 	github.com/brentp/intintmap v0.0.0-20190211203843-30dc0ade9af9 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
-	github.com/df-mc/dragonfly v0.4.3-0.20211204162740-34cab5eabfb0 // indirect
 	github.com/df-mc/goleveldb v1.1.9 // indirect
 	github.com/go-gl/mathgl v1.0.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
@@ -13,7 +14,6 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/muhammadmuzzammil1998/jsonc v0.0.0-20201229145248-615b0916ca38 // indirect
-	github.com/pelletier/go-toml v1.9.3 // indirect
 	github.com/sandertv/go-raknet v1.10.2 // indirect
 	github.com/sandertv/gophertunnel v1.17.1 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
